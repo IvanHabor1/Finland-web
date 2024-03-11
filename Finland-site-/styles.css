@@ -1,0 +1,32 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: rgb(49, 177, 182); /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+.left{
+    background-color: rgb(70, 165, 90);
+    height: 878px;
+    width: 33.3%;
+    float: left;
+}   
+.top{
+    background-color: rgb(181, 192, 31);
+    height: 300px;
+    width: 100%;
+    float: top;
+}
+.right{
+    background-color: rgb(39, 47, 92);
+    height: 878px;
+    width: 33.3%;
+    float: right;
+ 
+}
+.bottom{
+    background-color: rgb(165, 194, 37);
+    height: 878px;
+    width: 33.3%;
+    float: middle;
+}
